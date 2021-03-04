@@ -1,3 +1,3 @@
 # Targeted_AFDIA
 
-The code and datasets will be provided after the review.
+All the code and datasets used to reproduce the results will be provided after the review.
